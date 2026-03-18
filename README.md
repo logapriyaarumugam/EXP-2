@@ -48,21 +48,22 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
-![alt text](<WhatsApp Image 2026-03-18 at 2.04.17 PM (1).jpeg>)
-Tabulation for Load Test:
-![alt text](<WhatsApp Image 2026-03-18 at 2.04.17 PM.jpeg>)
-Model graph:
 ![alt text](image.png)
-![alt text](<Screenshot 2026-02-27 222419.png>)
+Tabulation for Load Test:
 ![alt text](image-1.png)
-![alt text](<Screenshot 2026-02-27 223031.png>)
+Model graph:
+![alt text](image-3.png)
+![alt text](image-2.png)
 Calculation: 
-
 Open circuit characteristics
 ![alt text](<WhatsApp Image 2026-03-18 at 2.04.18 PM (1).jpeg>)
-  ![alt text](<Screenshot 2026-02-27 223016.png>)
+![alt text](<Screenshot 2026-02-27 223016.png>)
+![alt text](<Screenshot 2026-02-27 223031.png>)
+  
 Load Characteristics:
- ![alt text](<WhatsApp Image 2026-03-18 at 2.04.18 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-03-18 at 2.04.18 PM.jpeg>)
 ![alt text](<Screenshot 2026-02-27 222403.png>)
+![alt text](<Screenshot 2026-02-27 222419.png>)
+ 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
